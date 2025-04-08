@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Grab</string>
+    
+    <!-- Common -->
+    <string name="confirm">Xác nhận</string>
+    <string name="cancel">Hủy</string>
+    <string name="back">Quay lại</string>
+    <string name="next">Tiếp tục</string>
+    <string name="success">Thành công</string>
+    <string name="error">Lỗi</string>
+
+    <!-- Login/Authentication -->
+    <string name="welcome">Chào mừng đến với Grab</string>
+    <string name="login">Đăng nhập</string>
+    <string name="login_options">Chọn phương thức đăng nhập</string>
+    <string name="login_with_phone">Đăng nhập bằng số điện thoại</string>
+    <string name="login_with_gmail">Đăng nhập bằng Gmail</string>
+    <string name="login_with_facebook">Đăng nhập bằng Facebook</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="enter_otp">Nhập mã OTP</string>
+    <string name="resend_otp">Gửi lại mã OTP</string>
+    <string name="verification_code">Mã xác thực</string>
+    <string name="verify">Xác minh</string>
+    <string name="login_success">Đăng nhập thành công</string>
+    <string name="login_failed">Đăng nhập không thành công</string>
+    <string name="phone_verification">Xác minh số điện thoại</string>
+    <string name="otp_sent">Mã OTP đã được gửi đến</string>
+    <string name="invalid_phone">Số điện thoại không hợp lệ</string>
+    <string name="invalid_otp">Mã OTP không chính xác</string>
+    <string name="invalid_gmail">Tài khoản Gmail không chính xác</string>
+    <string name="invalid_facebook">Tài khoản Facebook không chính xác</string>
+    <string name="register">Đăng ký</string>
+
+    <!-- Booking -->
+    <string name="booking">Đặt xe</string>
+    <string name="pickup_location">Điểm đón</string>
+    <string name="dropoff_location">Điểm đến</string>
+    <string name="choose_vehicle">Chọn loại xe</string>
+    <string name="car">Xe ô tô</string>
+    <string name="bike">Xe máy</string>
+    <string name="finding_driver">Đang tìm tài xế</string>
+    <string name="driver_found">Đã tìm thấy tài xế</string>
+    <string name="driver_not_found">Chưa tìm thấy tài xế</string>
+    <string name="booking_confirmed">Đặt xe thành công</string>
+    <string name="booking_failed">Đặt xe thất bại</string>
+    <string name="driver_info">Thông tin tài xế</string>
+    <string name="vehicle_info">Thông tin phương tiện</string>
+    <string name="estimated_arrival">Thời gian tài xế đến</string>
+    <string name="estimated_fare">Giá dự kiến</string>
+    <string name="grab_now">Đặt GrabNow</string>
+    <string name="normal_booking">Đặt xe thông thường</string>
+    <string name="finding_driver_message">Đang tìm tài xế. Vui lòng đợi</string>
+
+    <!-- Trip Rating -->
+    <string name="rate_trip">Đánh giá chuyến đi</string>
+    <string name="rate_driver">Đánh giá tài xế</string>
+    <string name="leave_comment">Nhập đánh giá và bình luận</string>
+    <string name="rating_success">Đánh giá thành công</string>
+    <string name="rating_failed">Đánh giá thất bại</string>
+    <string name="submit_rating">Gửi đánh giá</string>
+    <string name="rating_hint">Nhập bình luận của bạn tại đây</string>
+    <string name="thank_you">Cảm ơn bạn đã sử dụng dịch vụ</string>
+
+    <!-- Account -->
+    <string name="account">Tài khoản</string>
+    <string name="profile">Hồ sơ</string>
+    <string name="settings">Cài đặt</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="delete_account">Xóa tài khoản</string>
+    <string name="confirm_delete">Xác nhận xóa tài khoản?</string>
+    <string name="delete_account_message">Bạn có chắc chắn muốn xóa tài khoản? Hành động này không thể hoàn tác.</string>
+    <string name="delete_success">Xóa tài khoản thành công</string>
+    <string name="delete_failed">Xóa tài khoản thất bại</string>
+    <string name="edit_profile">Chỉnh sửa hồ sơ</string>
+    <string name="name">Họ tên</string>
+    <string name="save">Lưu</string>
+    <string name="help_center">Trung tâm trợ giúp</string>
+    <string name="terms_policies">Điều khoản &amp; Chính sách</string>
+    <string name="faq">Câu hỏi thường gặp</string>
+    <string name="contact_support">Liên hệ hỗ trợ</string>
+    <string name="account_delete_confirm">Xác nhận xóa tài khoản của bạn</string>
+    <string name="logout_confirm">Bạn có chắc muốn đăng xuất?</string>
+</resources>
